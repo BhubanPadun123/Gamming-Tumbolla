@@ -1,0 +1,1 @@
+export const inviteLink = "https://chat.whatsapp.com/AbCdEfGhIjKlMnOpQrStUv";
